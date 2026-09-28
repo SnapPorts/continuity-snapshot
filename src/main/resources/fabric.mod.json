@@ -35,6 +35,7 @@
 
   "depends": {
     "minecraft": ">=26.3",
+    "minecraft": [">=26.4-snapshot-1", ">=26.4-alpha.1", ">=26.3"],
     "fabric-api": "*"
   },
 

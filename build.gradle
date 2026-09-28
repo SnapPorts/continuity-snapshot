@@ -19,6 +19,7 @@ static String getExtraBuildMetadata() {
 }
 
 repositories {
+	mavenLocal()
 	maven {
 		name 'TerraformersMC'
 		url 'https://maven.terraformersmc.com'
